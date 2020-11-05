@@ -1,0 +1,8 @@
+Name: Paymaster Gateway RU;
+Parent Addon: user-balance;
+Version: 1.1.1;
+Support Core: 16.24.0;
+ItemID: 17774;
+Description: Подключение сайта к платежной системе Paymaster https://paymaster.ru/;
+Author: Плечёв Андрей;
+Author URI: http://codeseller.ru/;
